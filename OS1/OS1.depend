@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606678736 source:d:\Œ—\À‡·‡ 1\os1\memory.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"memory.h"
+
+1606678736 d:\Œ—\À‡·‡ 1\os1\memory.h
+
+1609370135 source:d:\Œ—\À‡·‡ 1\os1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"memory.h"
+
